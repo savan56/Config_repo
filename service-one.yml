@@ -2,4 +2,4 @@ server:
   port: 8081
 
 app:
-  message: Hello from Service One Config!
+  message: Hello from Service One Config! Message updaed by appending this line.
